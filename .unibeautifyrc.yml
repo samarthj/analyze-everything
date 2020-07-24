@@ -1,0 +1,6 @@
+Markdown:
+  beautifiers:
+    - Prettier
+  indent_size: 2
+  indent_style: space
+  wrap_prose: always
